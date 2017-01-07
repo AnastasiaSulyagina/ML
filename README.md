@@ -2,7 +2,8 @@
 
 Сеть распознает выражения лиц
 
-Использован фреймворк Keras
+Использован фреймворк Keras.
+
 Данные взяты с kaggle:
   https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
