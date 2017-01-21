@@ -2,7 +2,8 @@
 
 Сеть распознает выражения лиц
 
-Использован фреймворк Keras
+Использован фреймворк Keras.
+
 Данные взяты с kaggle:
   https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
@@ -13,3 +14,4 @@
 Данные взяты с SNA2016:
   http://www.snahackathon.org/dataset
 Для запуска поместить разархивированные данные из "trainGraph" в корень в папку "graph"
+
